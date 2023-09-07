@@ -1,0 +1,1 @@
+[{"first_name": "a", "last_name": "a", "birthday": ["2004", "01", "01"], "code_melli": 1234567899, "student_code": 12345, "courses": ["bio", "chem"], "grades": [17, 20]}, {"first_name": "b", "last_name": "b", "birthday": ["2004", "02", "02"], "code_melli": 1234567889, "student_code": 12346, "courses": ["bio", "chem"], "grades": [16, 14]}]
